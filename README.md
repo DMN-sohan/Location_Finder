@@ -1,6 +1,7 @@
 # Loaction_Finder
 
 - Heatmap either using WiFi Solver FDTD or completely creating FDTD from scratch 
+                                            pip install fdtd, try to use that
 
 - SeaBorn to correlate heatmap to come up with lookup values
 
